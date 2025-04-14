@@ -15,6 +15,14 @@ body{
     font-size: 2vw;
 }
 
+.image{
+    width: 60%;
+    height: fit-content;
+    position: absolute;
+    left: 20%;
+    top: 20%;
+}
+
 .pages-container{
     display: flex;
     flex-direction: row;
@@ -71,7 +79,9 @@ body{
     border-color: #f5d8a5;
     border-width: 0.1vw;
     border-style: solid;
+    position: relative;
     transition: 0.3s;
+    cursor: pointer;
 }.header-extra-button:hover{
     transform: scale(1.1);
 }
@@ -80,4 +90,31 @@ body{
     display: flex;
     flex-direction: row;
     gap: 1vw;
+}
+
+.footer-container-row{
+    background-color: #FFF5E4;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    gap: 10vw;
+    padding: 3vw 0;
+}
+
+.footer-content-container-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 50%;
+}
+
+.footer-content{
+    margin-top: 0.5vw;
+    text-decoration: none;
+    transition: 0.3s;
+    cursor: pointer;
+}.footer-content:hover{
+    color: #6A9C89;
+    text-decoration: underline;
+    transform: scale(1.1);
 }

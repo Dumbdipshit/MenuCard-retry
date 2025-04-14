@@ -8,7 +8,13 @@
 </head>
 <body>
     <footer>
-
+        <div class="footer-container-row">
+            <div class="footer-content-container-row">
+                <p class="footer-content">Legal</p>
+                <p class="footer-content">Job</p>
+                <p class="footer-content">Info</p>
+            </div>
+        </div>
     </footer>
 
     <script src="js/script.js"></script>

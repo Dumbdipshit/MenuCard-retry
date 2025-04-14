@@ -21,9 +21,11 @@
 
             <div class="header-extra-button-container-row">
                 <div class="header-extra-button">
+                    <img class="image" src="assets/images/shopping-cart-icon.png" alt="shopping cart icon">
                 </div>
 
                 <div class="header-extra-button">
+                    <img class="image" src="assets/images/person-icon.png" alt="person icon">
                 </div>
             </div>
         </div>

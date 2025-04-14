@@ -13,10 +13,13 @@
 <body>
     <?php include 'header.php';?>
 
-    <body class="Home-page-container">
+    <body>
+        <div class="Home-page-container">
 
-    </div>
+        </div>
+    </body>
 
+    <?php include 'footer.php';?>
     <script src="js/script.js"></script>
 </body>
 </html>
