@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: jetmono;
+    src: url(../assets/fonts/static/JetBrainsMono-Medium.ttf);
+}
+
+body{
+    background-color: #FFF5E4;
+    font-family: jetmono;
+}
+
+.header-pages-container-row{
+    display: flex;
+    flex-direction: row;
+}
