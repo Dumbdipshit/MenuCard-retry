@@ -118,3 +118,20 @@ body{
     text-decoration: underline;
     transform: scale(1.1);
 }
+
+.Home-page-container{
+    flex-direction: row;
+    margin: auto;
+    margin-top: 5vw;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 70%;
+    height: fit-content;
+}
+
+.box{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: #FFF5E4;
+}

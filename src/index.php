@@ -15,11 +15,11 @@
 
     <body>
         <div class="Home-page-container">
-
+            <div class="box"></div>
+            <div class="box"></div>
         </div>
     </body>
 
-    <?php include 'footer.php';?>
     <script src="js/script.js"></script>
 </body>
 </html>
