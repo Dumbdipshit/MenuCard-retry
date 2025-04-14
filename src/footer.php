@@ -1,7 +1,3 @@
-<?php 
-    include 'connect.php';
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,11 +7,9 @@
     <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
-    <?php include 'header.php';?>
+    <footer>
 
-    <body class="Home-page-container">
-
-    </div>
+    </footer>
 
     <script src="js/script.js"></script>
 </body>
