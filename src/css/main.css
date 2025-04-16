@@ -15,6 +15,11 @@ body{
     font-size: 2vw;
 }
 
+::selection{
+    background-color: #FFA725;
+    color: #f9e4c0;
+}
+
 .image{
     width: 60%;
     height: fit-content;
@@ -162,4 +167,12 @@ body{
     display: flex;
     flex-direction: column;
     gap: 10px;
+}
+
+.home-body-extra-options-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+    gap: 80px;
 }

@@ -24,6 +24,9 @@
                     </div>
                 </div>
         </div>
+        <div class="home-body-extra-options-container">
+            
+        </div>
     </body>
 
     <script src="js/script.js"></script>
